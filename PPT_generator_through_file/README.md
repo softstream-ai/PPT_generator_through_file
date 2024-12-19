@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-An efficient and customizable API for generating presentations programmatically. Designed for seamless integration and automation of slide creation tasks.
+An efficient and customizable templates and content for generating presentations programmatically. Designed for seamless integration and automation of slide creation tasks.
 
 ## 🚀 **Features**
 
