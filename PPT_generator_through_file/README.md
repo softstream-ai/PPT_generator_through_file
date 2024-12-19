@@ -1,1 +1,56 @@
-# PPT_generator_through_file
+
+
+# 📊 **PPT_generator_through_file**
+
+![License](https://img.shields.io/badge/License-MIT-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+An efficient and customizable API for generating presentations programmatically. Designed for seamless integration and automation of slide creation tasks.
+
+## 🚀 **Features**
+
+- ✨ **Automatic Slide Creation**: Generate professional presentations in seconds.
+- 📈 **Data-Driven Slides**: Create slides from structured datasets.
+- 🎨 **Custom Templates**: Use custom themes and templates to match your brand.
+- 📦 **Easy Export**: Export presentations to **PPTX**
+- ⚡ **Fast and Lightweight**: Optimized for performance and quick response times.
+
+## 🛠️ **Technologies Used**
+
+- ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-2.2-000000?logo=flask&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-150458?logo=pandas&logoColor=white)
+- ![Jinja2](https://img.shields.io/badge/Jinja2-3.1.2-B41717?logo=jinja&logoColor=white)
+
+## 📥 **Installation**
+
+```bash
+git clone https://github.com/softstream-ai/PPT_generator_through_file.git
+cd PPT_generator_through_file
+
+```
+
+## 🚦 **Usage**
+
+
+
+## 📝 **API Endpoints**
+
+| Method | Endpoint          | Description                    |
+|--------|-------------------|--------------------------------|
+| 🟢 `POST` | `/generate`       | Generate a new presentation    |
+
+ **Download the Presentation**:
+
+   Access the link returned in the response to download your generated presentation.
+
+
+
+## 📧 **Contact**
+
+For any questions, feel free to reach out:
+
+- **Email**: alishbahai005@example.com
+- **GitHub**: [AlishbahGhazanfar](https://github.com/AlishbahGhazanfar)
+
+---
+
