@@ -17,9 +17,9 @@ An efficient and customizable API for generating presentations programmatically.
 ## 🛠️ **Technologies Used**
 
 - ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-- ![Flask](https://img.shields.io/badge/Flask-2.2-000000?logo=flask&logoColor=white)
+- ![Fast](https://img.shields.io/badge/Flask-2.2-000000?logo=flask&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-150458?logo=pandas&logoColor=white)
-- ![Jinja2](https://img.shields.io/badge/Jinja2-3.1.2-B41717?logo=jinja&logoColor=white)
+
 
 ## 📥 **Installation**
 
