@@ -49,7 +49,7 @@ cd PPT_generator_through_file
 
 For any questions, feel free to reach out:
 
-- **Email**: alishbahai005@example.com
+- **Email**: alishbahai005@gmail.com
 - **GitHub**: [AlishbahGhazanfar](https://github.com/AlishbahGhazanfar)
 
 ---
